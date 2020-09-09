@@ -1,2 +1,2 @@
 # HousePricePrediction
-House Price Prediction using Gradient Boosting and Deep Learning 
+Building a Machine learning Pipeline for Ames-House-Price-Prediction
