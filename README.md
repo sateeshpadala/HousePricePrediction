@@ -3,7 +3,7 @@ Building a Machine learning Pipeline for Ames-House-Price-Prediction
 
 This project aims apply various Python tools for data cleaning, visualization, Feature engineering and applying machine learning for prediction of Sale Price using GridSearchCV.
 
-Achieved 89.25% r2_score.
+Achieved 89% r2_score.
 
 
 # Installation
